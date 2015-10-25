@@ -4,6 +4,7 @@ body
 }
 
 #home_page{
-float:left;
+float:left; }
 
-}
+p {
+font-size:30px}

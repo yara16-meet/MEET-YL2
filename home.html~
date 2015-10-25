@@ -20,7 +20,8 @@ _me">
 <form action = "contact_me.html">
 <input type= "submit" value = "contact me" id = "contact_me"><br>
 </form>
-<p> Hi,I'm Yara Abu Khdeir,I'm 16 years old,I live in shufat,I study in rosary Sisters' School.
+<p> Hi,I'm Yara Abu Khdeir,I'm a 16 years old palestinian, <br>I live in shufat,I study in rosary Sisters' School-beit hanina.<br>
+If you want to know about me click on"more about me",<br> if you find me interesting and you really really want a lot of info click on"contact me".</p>
 
 </body>
 </html>

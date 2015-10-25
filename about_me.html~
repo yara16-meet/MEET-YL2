@@ -14,10 +14,10 @@
 <input type= "submit" value = "contact me" id = "contact_me"><br>
 </form>
 
-<h2 style= color:FFB266> More About Me</h2>
+<h1 style= color:FFB266> More About Me</h1>
 <p> I'm a palestinian girl living in shufat,i was born in the third of<br> july 1999,I'm in 11 th grade,,I'm studing in Rosary Sisters'<br> School in Beit Hanina,I love dogs and cats,I used to have 2 dogs<br>(snickers and mocha),but mocha died:(
 
-<h2 style= color:FFB266> My Hobbies </h2>
+<h1 style= color:FFB266> My Hobbies </h1>
 <p> I have a lot of interests in life, but the most things I like to<br> do are dancing,swimming and drawing. There are many many things<br> beside these such as eating,watching tv,bicking and<br> sleeping..
 
 </body>
