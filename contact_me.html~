@@ -4,24 +4,29 @@
 </head>
 
 <body>
-<h1 style= color:FFB266> Contact Me</h1>
-
-<form action = "home.html">
-<input type= "submit" value = "Home page" id = "Home_page">
-</form>
-<form action = "about_me.html">
-<input type= "submit" value = "More about me" id = "more_about_me">
-</form>
-<form action = "contact_me.html">
-<input type= "submit" value = "contact me" id = "contact_me"><br>
-</form>
 
 
-<h1 style= color:FFB266> Facebook Account</h1>
-<p> Yara abu khdeir </p>
-<h1 style= color:FFB266> Email Address</h1>
-<p> yara.a.khdeir@gmail.com </p>
+<nav>
+<a  class="a1" href="home.html"> Home</a>
+<a  class="a2" href="about_me.html"> About Me</a>
+<a  class="a3" href="contact_me.html"> Contact Me</a><br>
+</nav>
+
+<h2 style= color:FFB266> Contact Me on my:</h2>
+<h1 style= color:FFB266> Facebook Account</h1> <img src="https://www.facebook.com/images/fb_icon_325x325.png" height= 80px width=80px id="facebook"> 
+<h2> Yara abu khdeir </h2>
+<h1 style= color:FFB266> Email Address</h1> <img src="http://files.itproportal.com/wp-content/uploads/2015/01/gmail.jpg" height= 60px width=80px id="gmail"> 
+<h2> yara.a.khdeir@gmail.com </h2>
 <h1 style= color:FFB266>Phone Number</h1>
-<p> 0523241345 </p>
+<h2> 73758492395 </h2>
+<h1 style= color:FFB266>Or you can send me some info<br> so I can contact you</h1>
+<form> 
+<h2>Full Name:<input type="text"><br></h2>
+<h2>E-mail:<input type="text"><br></h2>
+<h2>Facebook: <input type="text"><br><br></h2>
+
+<input type="submit" value="submit">
+</form>
+
 </body>
 </html>

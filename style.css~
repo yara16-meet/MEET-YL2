@@ -3,6 +3,63 @@ body
 
 }
 
+#hobbies{
+
+position:absolute;
+top:800px;
+left:250;
+
+}
+#about_me{
+position:absolute;
+top:50px;
+left:350;
+}
+
+
+#education{
+position:absolute;
+top:450px;
+left:250;
+}
+
+#facebook{
+position:absolute;
+top:100px;
+left:350;
+}
+
+#gmail{
+position:absolute;
+top:250px;
+left:400;
+}
+a:link, a:visited {
+		display:block;
+	width:220px;
+	font-weight:bold;
+	color:#FF007F;
+	text-align:center;
+	text-decoration:none;
+	text-transform:uppercase;
+	font-size:28px;
+}
+a:hover, a:active {
+	color:#ffa8a8;
+	text-decoration:none;
+	font-size:28px;
+}
+
+.a1 {
+	float:left;
+}
+.a2 {
+	float:left;
+}
+.a3 {
+	float:left;
+}
+
 #home_page{
 float:left; }
 
