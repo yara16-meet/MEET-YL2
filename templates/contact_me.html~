@@ -1,0 +1,56 @@
+<html>
+<head>
+<link rel=stylesheet type= text/css href="/static/style.css"> 
+</head>
+
+<body>
+
+
+<nav>
+<a  class="a1" href="/home"> Home</a>
+<a  class="a2" href="/about_me"> About Me</a>
+<a  class="a3" href="/contact_me"> Contact Me</a><br>
+</nav>
+
+<h2 style= color:#FFFFFF> Contact Me on my:</h2>
+
+<h1 style= color:#FFFFFF> Facebook Account</h1> <img src="https://www.facebook.com/images/fb_icon_325x325.png" height= 80px width=80px id="facebook"> 
+<h2> Yara abu khdeir </h2>
+
+<h1 style= color:#FFFFFF> Instagram Account</h1> <img src="http://www.boosharticles.com/wp-content/uploads/2015/06/instagram-logo-vector-image.png" height= 70px width=90px id="insta"> 
+<h2> yara_abukhdeir </h2>
+
+
+
+<h1 style= color:#FFFFFF> Email Address</h1> <img src="http://files.itproportal.com/wp-content/uploads/2015/01/gmail.jpg" height= 60px width=80px id="gmail"> 
+<h2> yara.a.khdeir@gmail.com </h2>
+
+<h1 style= color:#FFFFFF>Phone Number</h1>
+<h2> 73758492395 </h2>
+<h1 style= color:#FFFFFF>Or you can send me some info<br> so I can contact you</h1><img src="http://letsgrowvirtual.net/wp-content/uploads/2015/09/green_phone.png" height= 80px width=80px id="contact_me">
+ 
+<form> 
+<h2>Full Name:<input type="text"><br></h2>
+<h2>E-mail:<input type="text"><br></h2>
+<h2>Facebook: <input type="text"><br><br></h2>
+
+<input type="submit" value="submit">
+</form>
+
+<div class="panels-container">
+  <div class="panel-wrapper">
+   <div class="panel"> <a href="https://www.facebook.com/dania.kirresh?fref=ts"><img src="../static/pictures/facebook.png" alt="facebook" /></a>
+      <h1>Facebook</h1>
+    
+    </div>
+    <div class="panel"><a href="https://www.twitter.com/dania.kirresh?fref=ts"> <img src="../static/pictures/twitter.png" alt="twitter" /></a>
+      <h1>Twitter</h1>
+     
+    </div>
+    <div class="panel"> <a href="https://www.instagram.com/dania_kirresh?fref=ts"><img src="../static/pictures/insta.png" alt="instagram" /><a>
+      <h1>Instagram</h1>
+  
+    </div>
+
+</body>
+</html>

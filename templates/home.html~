@@ -1,0 +1,24 @@
+<html>
+
+<head>
+<link rel=stylesheet type= text/css href="/static/style.css">
+<h1> </h1>
+</head>
+
+
+<body>
+<img src="http://logocache.com/custom-design/logo-name/Yara-designstyle-candy-m.png"> <br><br>
+
+<body>
+<nav>
+<a class="a1" href="/home"> Home</a>
+<a class="a2" href="/about_me"> About Me</a>
+<a class="a3" href="/contact_me"> Contact Me</a>
+</nav><br> <br>
+
+<p> Hi,I'm Yara Abu Khdeir,I'm a 16 years old,Palestinian,Muslim girl <br>I live in shufat,I study in rosary Sisters' School-beit hanina.<br>
+If you want to know more about me click on"more about me",<br> you'll find very cool stuff about me like hobbies,education,<br>what I really like or hate and much more.<br>If you find me interesting and you really really want a lot of info<br> click on"contact me" feel free to email me!</p>
+
+</body>
+</html>
+

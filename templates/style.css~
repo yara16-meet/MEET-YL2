@@ -34,6 +34,12 @@ position:absolute;
 top:250px;
 left:400;
 }
+
+#contact_me{
+position:absolute;
+top:350px;
+left:400;
+}
 a:link, a:visited {
 		display:block;
 	width:220px;
